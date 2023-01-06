@@ -1,0 +1,10 @@
+torch~=1.10.0+cu102
+numpy~=1.21.4
+pandas~=1.3.4
+sklearn~=0.0
+scikit-learn~=1.0.1
+seaborn~=0.11.2
+matplotlib~=3.5.0
+imblearn~=0.0
+tqdm~=4.62.3
+scipy~=1.7.3

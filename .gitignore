@@ -1,0 +1,13 @@
+# IDE configurations
+.vscode/
+.idea/
+
+# cache
+__pycache__/
+
+# virtual environment
+venv/
+
+# others
+data/
+plots/
